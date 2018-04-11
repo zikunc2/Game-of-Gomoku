@@ -7,7 +7,7 @@ Training solution set: facedata/facedatatrainlabels
 Testing image set: facedata/facedatatest
 Testing solution set: facedata/facedatatestlabels
 
-One face image: 10 * 60
+One face image: 70 * 60
 0 - none edge; # - edge
 '''
 

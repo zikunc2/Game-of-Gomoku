@@ -9,6 +9,7 @@ likelihood - calculated for every pixel locations of a given digit, Laplace smoo
 prior - calculated for every digits
 
 <strong>Estimation: </strong>
+
 maximum a posteriori (MAP) classification
 
 <strong>Data Set:</strong>

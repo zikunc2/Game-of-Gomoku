@@ -19,13 +19,3 @@ Digit - 0 represent backgound, 1 represent foreground, every 33 line one digit: 
 Face Image Set - space represent background, # represent edge, Size of one face image: 70 * 60
 
 Face Tag Set - tagSet[index] = 0 if imageSet[index] is not a face, tagSet[index] = 1 if imageSet[index] is a face
-
-<strong>Source of Data Set:</strong>
-
-facedata & digitdata - https://courses.engr.illinois.edu/ece448/sp2018/mp3/mp3.html
-
-<strong>To Run:</strong>
-  
-python naive.py
-  
-python face.py
